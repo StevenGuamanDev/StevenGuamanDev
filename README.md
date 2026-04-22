@@ -19,9 +19,9 @@
     <img width="12" />
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="tailwind logo" />
     <img width="12" />
-    <img src="https://www.crmizmir.com/KYP/Resimler/ASP-Net-4-04-2023-17-21-24.png" height="40" alt="asp.net logo" />
+    <img src="https://api.civo.com/k3s-marketplace/aspnet.png" height="40" alt="asp.net logo" />
     <img width="12" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height="40" alt="laravel logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/3840px-Laravel.svg.png" height="40" alt="laravel logo" />
     <img width="12" />
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="40" alt="flutter logo" />
     <img width="12" />
@@ -35,7 +35,7 @@
     <img width="12" />
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" height="40" alt="mariadb logo" />
     <img width="12" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/800px-Adobe_XD_CC_icon.svg.png" height="40" alt="adobexd logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/250px-Adobe_XD_CC_icon.svg.png" height="40" alt="adobexd logo" />
     <img width="12" />
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40" alt="figma logo" />
 </div>
@@ -56,3 +56,4 @@
       <img src="https://i.ibb.co/647PC4g/Instagram.png" height="25" alt="Instagram" />
     </a>
 </div>
+
